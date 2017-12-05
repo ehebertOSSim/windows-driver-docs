@@ -6,7 +6,7 @@ description: 'Macros contained in the Hdpi.h header.'
 
 # Hdpi.h Macros
 
-The Hdpi.h header file contains several macros. 
+The Hidpi.h header file contains several macros. 
 This topic documents the following macros:
 
 * [**HidP\_GetButtons**](#HidPGetButtons)
